@@ -1,0 +1,198 @@
+[
+    {
+      "name": "Andhra Pradesh",
+      "abbr": "AP",
+      "capital": "Amaravati",
+      "lat": 15.9129,
+      "lon": 79.7400
+    },
+    {
+      "name": "Arunachal Pradesh",
+      "abbr": "AR",
+      "capital": "Itanagar",
+      "lat": 28.2180,
+      "lon": 94.7278
+    },
+    {
+      "name": "Assam",
+      "abbr": "AS",
+      "capital": "Dispur",
+      "lat": 26.2006,
+      "lon": 92.9376
+    },
+    {
+      "name": "Bihar",
+      "abbr": "BR",
+      "capital": "Patna",
+      "lat": 25.0961,
+      "lon": 85.3131
+    },
+    {
+      "name": "Chhattisgarh",
+      "abbr": "CG",
+      "capital": "Raipur",
+      "lat": 21.2787,
+      "lon": 81.8661
+    },
+    {
+      "name": "Goa",
+      "abbr": "GA",
+      "capital": "Panaji",
+      "lat": 15.2993,
+      "lon": 74.1240
+    },
+    {
+      "name": "Gujarat",
+      "abbr": "GJ",
+      "capital": "Gandhinagar",
+      "lat": 22.2587,
+      "lon": 71.1924
+    },
+    {
+      "name": "Haryana",
+      "abbr": "HR",
+      "capital": "Chandigarh",
+      "lat": 29.0588,
+      "lon": 76.0856
+    },
+    {
+      "name": "Himachal Pradesh",
+      "abbr": "HP",
+      "capital": "Shimla",
+      "lat": 31.1048,
+      "lon": 77.1734
+    },
+    {
+      "name": "Jharkhand",
+      "abbr": "JH",
+      "capital": "Ranchi",
+      "lat": 23.6102,
+      "lon": 85.2799
+    },
+    {
+      "name": "Karnataka",
+      "abbr": "KA",
+      "capital": "Bengaluru",
+      "lat": 15.3173,
+      "lon": 75.7139
+    },
+    {
+      "name": "Kerala",
+      "abbr": "KL",
+      "capital": "Thiruvananthapuram",
+      "lat": 10.8505,
+      "lon": 76.2711
+    },
+    {
+      "name": "Madhya Pradesh",
+      "abbr": "MP",
+      "capital": "Bhopal",
+      "lat": 22.9734,
+      "lon": 78.6569
+    },
+    {
+      "name": "Maharashtra",
+      "abbr": "MH",
+      "capital": "Mumbai",
+      "lat": 19.7515,
+      "lon": 75.7139
+    },
+    {
+      "name": "Manipur",
+      "abbr": "MN",
+      "capital": "Imphal",
+      "lat": 24.6637,
+      "lon": 93.9063
+    },
+    {
+      "name": "Meghalaya",
+      "abbr": "ML",
+      "capital": "Shillong",
+      "lat": 25.4670,
+      "lon": 91.3662
+    },
+    {
+      "name": "Mizoram",
+      "abbr": "MZ",
+      "capital": "Aizawl",
+      "lat": 23.1645,
+      "lon": 92.9376
+    },
+    {
+      "name": "Nagaland",
+      "abbr": "NL",
+      "capital": "Kohima",
+      "lat": 26.1584,
+      "lon": 94.5624
+    },
+    {
+      "name": "Odisha",
+      "abbr": "OD",
+      "capital": "Bhubaneswar",
+      "lat": 20.9517,
+      "lon": 85.0985
+    },
+    {
+      "name": "Punjab",
+      "abbr": "PB",
+      "capital": "Chandigarh",
+      "lat": 31.1471,
+      "lon": 75.3412
+    },
+    {
+      "name": "Rajasthan",
+      "abbr": "RJ",
+      "capital": "Jaipur",
+      "lat": 27.0238,
+      "lon": 74.2179
+    },
+    {
+      "name": "Sikkim",
+      "abbr": "SK",
+      "capital": "Gangtok",
+      "lat": 27.5330,
+      "lon": 88.5122
+    },
+    {
+      "name": "Tamil Nadu",
+      "abbr": "TN",
+      "capital": "Chennai",
+      "lat": 11.1271,
+      "lon": 78.6569
+    },
+    {
+      "name": "Telangana",
+      "abbr": "TG",
+      "capital": "Hyderabad",
+      "lat": 18.1124,
+      "lon": 79.0193
+    },
+    {
+      "name": "Tripura",
+      "abbr": "TR",
+      "capital": "Agartala",
+      "lat": 23.9408,
+      "lon": 91.9882
+    },
+    {
+      "name": "Uttar Pradesh",
+      "abbr": "UP",
+      "capital": "Lucknow",
+      "lat": 26.8467,
+      "lon": 80.9462
+    },
+    {
+      "name": "Uttarakhand",
+      "abbr": "UK",
+      "capital": "Dehradun",
+      "lat": 30.0668,
+      "lon": 79.0193
+    },
+    {
+      "name": "West Bengal",
+      "abbr": "WB",
+      "capital": "Kolkata",
+      "lat": 22.9868,
+      "lon": 87.8550
+    }
+  ]
